@@ -1,0 +1,12 @@
+
+
+name: hello_world
+inc:
+ /home/philix/git/nginx-1.16.0/src/core
+ /home/philix/git/nginx-1.16.0/src/http
+ /home/philix/git/nginx-1.16.0/src/http/modules
+ /home/philix/git/nginx-1.16.0/src/event
+ /home/philix/git/nginx-1.16.0/src/os/unix
+ /home/philix/git/nginx-1.16.0/objs
+
+src: ngx_http_hello_world_module.cpp
